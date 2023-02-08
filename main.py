@@ -41,3 +41,7 @@ def ft(l, t):
         if e == t:
             return i
     return err_list()
+
+#Reverse list
+def r(l):
+    return l[::-1]
